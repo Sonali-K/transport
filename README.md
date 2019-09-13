@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/gh/codeasashu/transport.svg?style=svg)](https://circleci.com/gh/codeasashu/transport)
+![Travis (.org) branch](https://img.shields.io/codecov/c/github/codeasashu/transport?style=flat-square)
+![Travis (.org) branch](https://img.shields.io/travis/codeasashu/transport/master)
+
 
 # MyOperator Transport
 
