@@ -7,10 +7,12 @@ jobs:
   build:
     docker:
       - image: circleci/php:5.6-cli
+      - image: kennethreitz/httpbin
 
     steps:
       - checkout
       
+      - run: docker
       - run: sudo apt update
       - run: sudo docker-php-ext-install zip
 
