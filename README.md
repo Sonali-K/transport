@@ -1,5 +1,5 @@
-https://img.shields.io/codecov/c/github/codeasashu/transport?style=flat-square
-https://img.shields.io/travis/codeasashu/transport/master
+![Travis (.org) branch](https://img.shields.io/codecov/c/github/codeasashu/transport?style=flat-square)
+![Travis (.org) branch](https://img.shields.io/travis/codeasashu/transport/master)
 
 
 # MyOperator Transport
