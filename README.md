@@ -1,5 +1,6 @@
 ![Travis (.org) branch](https://img.shields.io/codecov/c/github/codeasashu/transport?style=flat-square)
 ![Travis (.org) branch](https://img.shields.io/travis/codeasashu/transport/master)
+[![Build Status](http://jenkins.voicetree.info:62126/buildStatus/icon?job=API+Pipeline)](http://jenkins.voicetree.info:62126/buildStatus/icon?job=API+Pipeline)
 
 
 # MyOperator Transport
